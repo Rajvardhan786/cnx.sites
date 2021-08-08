@@ -4,7 +4,7 @@
 
 <html>
 <head> 
-  <link rel="mimo.16.css"> <href="stylesheet">
+  
   </head>
   <body>
   <button> click here </button> 
