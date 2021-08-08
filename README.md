@@ -1,4 +1,4 @@
-## 
+## HI I'm a full stack developer and a technical engineer studying at mechigen..
 <html>
 <body>
  <h1> WELCOME!  </h1>
