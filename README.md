@@ -1,4 +1,4 @@
-## HI I am Rajvardhan and i'm a full stack web developer who's studying at university of mechigen.. 
+## 
 <html>
 <body>
  <h1> WELCOME!  </h1>
