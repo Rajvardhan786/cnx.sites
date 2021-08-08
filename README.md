@@ -1,4 +1,12 @@
-## Welcoming you to my website 
+## HI I am Rajvardhan and i'm a web developer who's studying at university of mechigen.. 
+ <h1> WELCOME! </h1>
 
-You can use the [editor on GitHub](https://github.com/Rajvardhan786/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+<!doctype html>
+<html>
+<head> 
+  <link rel="mimo.16.css"> <href="stylesheet">
+  </head>
+  <body>
+  <button> click here </button> 
+    
+  
